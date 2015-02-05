@@ -1,4 +1,4 @@
-FROM gregory90/mesos:0.21.0
+FROM gregory90/mesos:0.21.1
 
 EXPOSE 5051
 
